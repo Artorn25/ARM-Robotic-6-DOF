@@ -9,7 +9,7 @@ This project is a control system for the **ABB CRB 1300-7/1.4** robotic arm with
 ## 🤖 Components
 
 ### 1. **ABB CRB 1300-7/1.4 Robotic Arm**
-![ABB CRB 1300](./images/abb-crb1300.jpg)
+![ABB CRB 1300](https://github.com/Artorn25/ARM-Robotic-6-DOF/blob/main/images%26videos/abb-crb-1300-7-1-4.jpg)<br>
 A versatile industrial robotic arm with 6 degrees of freedom, known for its precision and flexibility in handling complex tasks in various industries.
 
 - **[Learn More](https://new.abb.com/products/robotics/robotic-arms/abb-crb-1300-7-1-4)**
@@ -17,19 +17,19 @@ A versatile industrial robotic arm with 6 degrees of freedom, known for its prec
 ---
 
 ### 2. **[OnRobot Dual Quick Tool Changer](https://www.onrobot.com/en/products/dual-quick-tool-changer)**  
-![OnRobot Dual Quick Tool Changer](./images/dual-quick-tool-changer.jpg)  
+![OnRobot Dual Quick Tool Changer](https://github.com/Artorn25/ARM-Robotic-6-DOF/blob/main/images%26videos/onrobot_dual.jpg)  <br>
 Enables **quick and efficient tool changes** with minimal downtime, providing flexibility for various tasks and enhancing productivity.
 
 ---
 
 ### 3. **[SMC MHM-25D-X7400A Magnetic Gripper](https://www.smcworld.com/products/robot-grippers/magnetic-grippers/)**  
-![SMC Gripper](./images/smc-mhm-25d-gripper.jpg)  
+![SMC Gripper](https://github.com/Artorn25/ARM-Robotic-6-DOF/blob/main/images%26videos/MHM.jpg) <br> 
 This **magnetic gripper** is designed to securely handle metallic objects such as chips, making it perfect for pick-and-place applications in assembly lines.
 
 ---
 
 ### 4. **[MISTRAL 6 PREMIUM, 230V/4500W](https://www.mistral-air.com/en/)**  
-![MISTRAL 6 PREMIUM](./images/mistral-6-premium.png)  
+![MISTRAL 6 PREMIUM](https://github.com/Artorn25/ARM-Robotic-6-DOF/blob/main/images%26videos/MISTRAL.jpg) <br> 
 A **high-performance air unit** used for applying hot air to ensure that chips are securely attached to the circuit board after placement.
 
 ---
@@ -64,9 +64,7 @@ A **high-performance air unit** used for applying hot air to ensure that chips a
 
 Watch the demo video of the ARM Robotic 6-DOF system:
 
-<video width="640" height="360" controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://youtu.be/kunJu3KZHkw)
+
 
 
